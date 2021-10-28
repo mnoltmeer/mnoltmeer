@@ -2,7 +2,7 @@
 
 I'm Maxim, enthusiast programmer. I work at Ukrposhta - the Ukrainian postal company. Programming is my hobby, as well as an opportunity to facilitate the work of company employees :)
 
-- 📫 How to reach me: m.noltmmer@gmail.com
+- 📫 How to reach me: m.noltmeer@gmail.com
 - 🎁 How to help me: https://ko-fi.com/mnoltmeer
 
 <p align='center'>
